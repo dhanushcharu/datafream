@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 17 14:12:30 2023
-
-@author: SPTINT-20
-"""
-
 import pandas as pd
 data=pd.DataFrame([[1,2,3,4],
                    [1,2,3,4],
